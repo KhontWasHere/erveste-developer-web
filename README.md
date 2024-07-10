@@ -1,6 +1,6 @@
 # erveste-developer-web 
 # basit bir geliştirici kontrol sitesi python ile yaptım 25 star buda
-
+iletişim için discord server : https://discord.gg/yfNhBuJ8hV
 ![image](https://github.com/KhontWasHere/erveste-developer-web/assets/82388102/8a1f40c6-32cb-40e0-b5c4-866db8958fcd)
 
 **Sunucu seçildiğinde**
